@@ -1,0 +1,45 @@
+{
+  "expo": {
+    "name": "statsAcademy",
+    "slug": "statsAcademy",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/tutorialogo3.png",
+    "scheme": "myapp",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/images/pantallacarga.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#10132F"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/tutorialogo3.png",
+        "backgroundColor": "#10132F",
+        "permissions": ["INTERNET"],
+        "android.permissions": true
+      },
+      "package": "com.david137.statsAcademy"
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/images/tutorialogo3.png"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-font"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "eas": {
+        "projectId": "3bf77ea4-3309-4bcc-a7c5-1cdc51de6bdd"
+      }
+    }
+  }
+}

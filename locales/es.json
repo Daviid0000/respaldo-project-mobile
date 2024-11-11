@@ -1,0 +1,134 @@
+{
+    "language": "Idioma",
+    "My-Profile": "Mi perfil",
+    "My-bests-notes": "Mis mejores notas",
+    "My-worst-notes": "Mis peores notas",
+    "My-Account": "Mi cuenta",
+    "Notificacions": "Notificaciones",
+    "Help": "Ayuda",
+    "My-Personal-goals": "Mis metas personales",
+    "User-calendar": "Calendario de usuario",
+
+    "Write": "Escribir...",
+
+    "change-language": "Cambiar idioma",
+    "welcome": "Bienvenido a mi aplicación",
+    
+    "StatsAcademy": "Stats Academy",
+
+    "Title-Landing": "Aprendizaje en Estadística",
+
+    "Subtitle-Landing": "Descubre la manera más efectiva de aprender Estadística con nuestra tutoria personalizada",
+
+    "Button-Start": "EMPEZAR",
+
+    "Carrousel-message-1": "Aprende estadística de manera fácil y divertida.",
+    "Carrousel-message-2": "Únete a la academia y alcanza tus metas.",
+    "Carrousel-message-3": "Nos adaptamos a diferentes dispositivos para tu comodidad.",
+
+    "Presentation-Gauss": "¡Prueba Gauss! Nuestro tutor inteligente",
+    "Button-start-gauss": "Únete ahora",
+
+    "Presentation-tools": "Tenemos las herramientas que necesitas",
+
+    "Tool-1": "Perfil de Alumno",
+    "Tool-2": "Anotador", 
+    "Tool-3": "Calendario",
+
+    "Welcome-home": "Bienvenido a tu inicio",
+
+    "Title-card-1": "Chat",
+    "Title-card-2": "Organizador",
+    "Title-card-3": "Calendario",
+    "Card-1": "Chat con clases interactivas",
+    "Card-2": "Organizador para gestionar actividades, objetivos, metas y otros eventos importantes",
+    "Card-3": "Calendario para definir eventos importantes",
+
+    "Tool-kanban-button-add": "Añadir",
+    "Column-1": "Por hacer",
+    "Column-2": "En proceso",
+    "Column-3": "Finalizado",
+
+    "Tool-calendar-subtitle": "Eventos importantes",
+    "Button-add": "Añadir evento importante",
+    "Modal-title": "Crea tu evento importante",
+    "Date": "Fecha",
+    "Input-event": "Escribe tu evento importante",
+    "Event-date": "Fecha: ",
+    "Event-description": "Evento: ",
+    "Button-save": "Guardar",
+    "Button-acept": "Aceptar",
+    "Button-cancel": "Cancelar",
+    "Select-date": "Seleccione la fecha",
+    
+    "Login-check": "Recúerdame",
+    "Login-help": "Olvidé mi contraseña",
+    "Login-subtitle-1": "O logueate con una red social",
+    "Login-subtitle-2": "¿No tienes una cuenta?",
+    "Login-subtitle-3": "¡Registrate aquí!",
+
+    "Register-terms": "Terminos y Condiciones",
+    "Register-subtitle-1": "O registrate con una red social",
+    "Register-subtitle-2": "¿Ya tienes una cuenta?", 
+    "Register-subtitle-3": "¡Inicia sesión!",
+    
+    "Drawer-change-avatar": "Cambiar avatar",
+    "Drawer-title-1": "Cuenta",
+    "Drawer-title-2": "Aplicattion",
+
+    "Drawer-row-1": "Perfil de usuario",
+    "Drawer-row-2": "Mi cuenta",
+    "Drawer-row-3": "Notificaciones",
+    "Drawer-row-4": "Configuración",
+    "Drawer-row-5": "idioma",
+    "Drawer-row-6": "Ayuda",
+    "Drawer-row-7": "Invitar amigos",
+    "Drawer-row-8": "Cerrar sesión",
+
+    "Footer-title": "Todos los derechos recervados © 2024",
+    "Footer-subtitle-1": "Términos y condiciones",
+    "Footer-subtitle-2": "Política de Privacidad",
+    "Footer-contact": "CONTACTANOS",
+
+    "Profile-card-1": "Tareas hechas", 
+    "Profile-card-2": "Horas dedicadas", 
+    "Profile-card-3": "Logros hechos", 
+    "Profile-card-4": "Mejores notas", 
+    "Profile-card-5": "Recorrido de usuario", 
+    "Profile-card-6": "Peores notas",
+    
+    "Mejores-notas-question": "Pregunta...",
+    "Mejores-notas-answer": "Respuesta...",
+    "Mejores-notas-card": "Tarea",
+
+    "Peores-notas-question": "Pregunta...",
+    "Peores-notas-answer": "Respuesta...",
+    "Peores-notas-card": "Tarea",
+
+    "My-Account-username": "Usuario",
+    "My-Account-email": "Correo",
+    "My-Account-password": "Contraseña",
+    "My-Account-delete": "Eliminar cuenta",
+
+    "Notifications-void": "No hay notificaciones",
+    
+    "Help-title": "Preguntas frecuentes",
+    "Help-row-question-1": "¿Qué son los logros?",
+    "Help-row-question-2": "¿Qué es el recorrido del usuario?",
+    "Help-row-question-3": "¿Qué pasa si elimino mi cuenta?",
+    "Help-row-question-4": "¿Cómo cambio mi nombre de usuario o email?",
+    "Help-row-question-5": "¿Qué pasa si olvido mi contraseña?",
+    "Help-row-question-6": "¿Puedo reiniciar el curso?",
+    "Help-row-question-7": "¿Qué es Gauss?",
+
+    "Help-row-answer-1": "Los logros son metas que puedes alcanzar dentro de la aplicación.",
+    "Help-row-answer-2": "El recorrido del usuario es el camino que sigue dentro de la app, desde que inicia hasta que termina las tareas.",
+    "Help-row-answer-3": "Si eliminas tu cuenta por accidente, puedes contactar con soporte para intentar recuperarla.",
+    "Help-row-answer-4": "Puedes cambiar tu nombre de usuario o email desde la configuración de la cuenta.",
+    "Help-row-answer-5": "Si olvidas tu contraseña, puedes restablecerla a través de la opción 'Olvidé mi contraseña'.",
+    "Help-row-answer-6": "Sí, puedes reiniciar el curso desde la página de inicio.",
+    "Help-row-answer-7": "Gauss es una herramienta de análisis de datos integrada en la aplicación."
+
+
+}
+  

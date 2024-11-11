@@ -1,0 +1,130 @@
+{
+  "language": "Language",
+  "My-Profile": "My Profile",
+  "My-bests-notes": "My Best Notes",
+  "My-worst-notes": "My Worst Notes",
+  "My-Account": "My Account",
+  "Notificacions": "Notifications",
+  "Help": "Help",
+  "My-Personal-goals": "My Personal Goals",
+  "User-calendar": "User calendar",
+  "Write": "Write...",
+  
+  "change-language": "Change language",
+  "welcome": "Welcome to my app",
+  
+  "StatsAcademy": "Stats Academy",
+
+  "Title-Landing": "Learning Statistics",
+
+  "Subtitle-Landing": "Discover the most effective way to learn Statistics with our personalized tutoring",
+
+  "Button-Start": "START",
+
+  "Carrousel-message-1": "Learn statistics in an easy and fun way.",
+  "Carrousel-message-2": "Join the academy and reach your goals.",
+  "Carrousel-message-3": "We adapt to different devices for your comfort.",
+
+  "Presentation-Gauss": "Try Gauss! Our intelligent tutor",
+  "Button-start-gauss": "Join now",
+
+  "Presentation-tools": "We have the tools you need",
+
+  "Tool-1": "Student Profile",
+  "Tool-2": "Note Taker", 
+  "Tool-3": "Calendar",
+
+  "Welcome-home": "Welcome to your home page",
+
+  "Title-card-1": "Chat",
+  "Title-card-2": "Organizer",
+  "Title-card-3": "Calendar",
+  "Card-1": "Chat with interactive lessons",
+  "Card-2": "Organizer to manage activities, goals, targets, and other important events",
+  "Card-3": "Calendar to define important events",
+
+  "Tool-kanban-button-add": "Add",
+  "Column-1": "To do",
+  "Column-2": "In Progress",
+  "Column-3": "Completed",
+
+  "Tool-calendar-subtitle": "Important events",
+  "Button-add": "Add important event",
+  "Modal-title": "Create your important event",
+  "Date": "Date",
+  "Input-event": "Write your important event",
+  "Event-date": "Date : ",
+  "Event-description": "Event : ",
+  "Button-save": "Save",
+  "Button-acept": "Accept",
+  "Button-cancel": "Cancel",
+  "Select-date": "Select the date",
+  
+  "Login-check": "Remember me",
+  "Login-help": "Forgot my password",
+  "Login-subtitle-1": "Or log in with a social network",
+  "Login-subtitle-2": "Don’t have an account?",
+  "Login-subtitle-3": "Sign up here!",
+
+  "Register-terms": "Terms and Conditions",
+  "Register-subtitle-1": "Or sign up with a social network",
+  "Register-subtitle-2": "Already have an account?", 
+  "Register-subtitle-3": "Log in!",
+
+  "Drawer-change-avatar": "Change avatar",
+  "Drawer-title-1": "Account",
+  "Drawer-title-2": "Application",
+
+  "Drawer-row-1": "User profile",
+  "Drawer-row-2": "My account",
+  "Drawer-row-3": "Notifications",
+  "Drawer-row-4": "Settings",
+  "Drawer-row-5": "Language",
+  "Drawer-row-6": "Help",
+  "Drawer-row-7": "Invite friends",
+  "Drawer-row-8": "Log out",
+
+  "Footer-title": "All rights reserved © 2024",
+  "Footer-subtitle-1": "Terms and conditions",
+  "Footer-subtitle-2": "Privacy Policy",
+  "Footer-contact": "CONTACT US",
+
+  "Profile-card-1": "Tasks completed", 
+  "Profile-card-2": "Hours dedicated", 
+  "Profile-card-3": "Achievements completed", 
+  "Profile-card-4": "Best notes", 
+  "Profile-card-5": "User journey", 
+  "Profile-card-6": "Worst notes",
+
+  "Mejores-notas-question": "Question...",
+  "Mejores-notas-answer": "Answer...",
+  "Mejores-notas-card": "Task",
+
+  "Peores-notas-question": "Question...",
+  "Peores-notas-answer": "Answer...",
+  "Peores-notas-card": "Task",
+
+  "My-Account-username": "Username",
+  "My-Account-email": "Email",
+  "My-Account-password": "Password",
+  "My-Account-delete": "Delete account",
+
+  "Notifications-void": "No notifications",
+
+  "Help-title": "Frequently Asked Questions",
+  "Help-row-question-1": "What are achievements?",
+  "Help-row-question-2": "What is the user journey?",
+  "Help-row-question-3": "What happens if I delete my account?",
+  "Help-row-question-4": "How can I change my username or email?",
+  "Help-row-question-5": "What if I forget my password?",
+  "Help-row-question-6": "Can I restart the course?",
+  "Help-row-question-7": "What is Gauss?",
+
+  "Help-row-answer-1": "Achievements are goals you can achieve within the app.",
+  "Help-row-answer-2": "The user journey is the path a user follows in the app, from starting to completing tasks.",
+  "Help-row-answer-3": "If you accidentally delete your account, you can contact support to try to recover it.",
+  "Help-row-answer-4": "You can change your username or email in the account settings.",
+  "Help-row-answer-5": "If you forget your password, you can reset it using the 'Forgot my password' option.",
+  "Help-row-answer-6": "Yes, you can restart the course from the home page.",
+  "Help-row-answer-7": "Gauss is a data analysis tool integrated into the app."
+}
